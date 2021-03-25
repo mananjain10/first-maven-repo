@@ -8,7 +8,7 @@ public class EmpView {
 		// TODO Auto-generated method stub
 		Employee emp=new Employee();
 		emp.setEmpId(1001);
-		emp.setEmpName("Manan");
+		emp.setEmpName("Messi");
 		
 		System.out.println("Id: "+emp.getEmpId());
 		System.out.println("Name: "+emp.getEmpName());
